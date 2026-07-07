@@ -84,10 +84,6 @@ I love transforming ideas into real-world projects while continuously learning n
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=First,+solve+the+problem.;Then,+write+the+code.+💻"/>
-
 <br><br>
 
 ### 💙 Thanks for Visiting!
