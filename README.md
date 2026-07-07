@@ -110,8 +110,6 @@ I love transforming ideas into real-world projects while continuously learning n
 
 <div align="center">
 
-### 💙 Thanks for Visiting! 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
+### 💙 Thanks for Visiting! 
 
 </div>
