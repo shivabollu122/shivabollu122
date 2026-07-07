@@ -84,8 +84,8 @@ I love transforming ideas into real-world projects while continuously learning n
 
 ---
 
-<br>
+<div align="center">
 
-### 💙 Thanks for Visiting!
+### 💙 Thanks for Visiting! 👋
 
 </div>
