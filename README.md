@@ -2,17 +2,7 @@
 
 # 👋 Hey, I'm Shiva Bollu
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Developer;Back-End+Developer;React.js+Developer;Node.js+%7C+Express.js;Java+Developer;Always+Learning+New+Technologies+🚀" />
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Developer;Back-End+Developer;Building+Modern+Web+Applications"/>
 
 </div>
 
@@ -22,7 +12,7 @@
 
 Hi there! I'm **Shiva Bollu**, a passionate **Front-End & Back-End Developer** who enjoys building modern, responsive, and scalable web applications.
 
-I love turning ideas into real-world projects while continuously learning new technologies.
+I love transforming ideas into real-world projects while continuously learning new technologies.
 
 ### 🌟 A Little About Me
 
@@ -39,9 +29,7 @@ I love turning ideas into real-world projects while continuously learning new te
 ## 🎨 Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
-
 </p>
 
 ---
@@ -49,9 +37,7 @@ I love turning ideas into real-world projects while continuously learning new te
 ## ⚙ Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,java"/>
-
 </p>
 
 ---
@@ -76,7 +62,7 @@ I love turning ideas into real-world projects while continuously learning new te
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
@@ -112,7 +98,7 @@ I love turning ideas into real-world projects while continuously learning new te
 
 <div align="center">
 
-## ⚡ Developer Quote
+## 💡 Developer Quote
 
 > **"First, solve the problem. Then, write the code."**
 
@@ -124,8 +110,8 @@ I love turning ideas into real-world projects while continuously learning new te
 
 <div align="center">
 
-### 💙 Thanks for Visiting!
+### 💙 Thanks for Visiting! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
 
 </div>
