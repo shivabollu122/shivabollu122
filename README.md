@@ -40,25 +40,6 @@ I am a highly motivated and confident **Full-Stack Developer** ready to make a s
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivabollu122&theme=onedark&column=7" alt="shivabollu122 trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.aggregate.connected.black/api?username=shivabollu122&show_icons=true&theme=tokyonight&count_private=true" alt="Shiva's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.aggregate.connected.black/api/top-langs/?username=shivabollu122&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivabollu122&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Let's Connect & Follow My Journey
 
 Get in touch or check out my latest content across platforms:
