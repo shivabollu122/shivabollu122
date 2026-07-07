@@ -84,7 +84,7 @@ I love transforming ideas into real-world projects while continuously learning n
 
 ---
 
-<br><br>
+<br>
 
 ### 💙 Thanks for Visiting!
 
