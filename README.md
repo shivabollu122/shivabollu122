@@ -80,6 +80,8 @@ I love transforming ideas into real-world projects while continuously learning n
 
 ---
 
+---
+
 # 🤝 Connect With Me
 
 <div align="center">
@@ -89,7 +91,7 @@ I love transforming ideas into real-world projects while continuously learning n
 </a>
 
 <a href="https://my-port-folio-pi-sand.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -98,20 +100,10 @@ I love transforming ideas into real-world projects while continuously learning n
 
 <div align="center">
 
-## 💡 Developer Quote
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=First,+solve+the+problem.;Then,+write+the+code.+💻"/>
 
-> **"First, solve the problem. Then, write the code."**
+<br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for Visiting! 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
+### 💙 Thanks for Visiting!
 
 </div>
