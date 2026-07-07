@@ -68,20 +68,6 @@ I love transforming ideas into real-world projects while continuously learning n
 
 ---
 
-# 🌐 Portfolio
-
-<div align="center">
-
-<a href="https://my-port-folio-pi-sand.vercel.app/">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
-
----
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
